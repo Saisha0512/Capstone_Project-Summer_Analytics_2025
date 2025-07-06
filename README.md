@@ -105,7 +105,7 @@ flowchart TD
 
 - **Dataset Columns**: `SystemCodeNumber`, `Capacity`, `Occupancy`, `QueueLength`, `TrafficConditionNearby`, `IsSpecialDay`, `VehicleType`, `Latitude`, `Longitude`, `Timestamp`
 - **Pricing Model Parameters**: Tunable base price, demand coefficients, and window length.
-- **Code Structure**: All code is contained in a single Jupyter Notebook for transparency and reproducibility.
+- **Code Structure**: All code is contained in a single Colab Notebook for transparency and reproducibility.
 
 ---
 
